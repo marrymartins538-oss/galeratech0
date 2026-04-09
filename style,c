@@ -1,0 +1,17 @@
+/* body {
+            background-color: hsl(61, 83%, 77%);
+        }*/
+         a {
+            color: rgb(226, 96, 176);
+        }
+        a:hover{
+            color:rgb(221, 122, 139);
+        }
+        hr{
+            border: 1px solid rgb(212, 43, 162);
+        }
+        img{
+            width: 30%; /*largura*/
+            height: auto; /*altuea*/
+            border-radius: 5px; /*arrendondar bordas*/
+            box-shadow: 3px 3px 5px #ee6ee3; /*valor1 e valor2 são projeções da sombra, valor3 espalhamento da sombra, cor da sombra*/
